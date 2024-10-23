@@ -1,2 +1,2 @@
-# designing controller robot
+# designing controller for robot
  Robotic HW8
