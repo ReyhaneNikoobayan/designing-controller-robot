@@ -4,12 +4,12 @@
 
 
 
-**In this project, First I design model for motors of robot**
+**In this project, I first designed a model for the robot’s motors.**
 
 <img width="1318" height="512" alt="image" src="https://github.com/user-attachments/assets/f4072c72-34e3-47dd-8c48-8344ac9b523d" />
 
  
-**Then I appply voltaj 48 for 3 seconds to each motors**
+**Then I applied a 48-volt input to each motor for 3 seconds.**
 
 <img width="975" height="499" alt="image" src="https://github.com/user-attachments/assets/62aaefc5-c162-4335-ba01-f55e351cb019" />
 
@@ -27,7 +27,7 @@
 - settling time is about 1 second
 -  the overshoot is less than 5%.
 
-**Which result in following controllers:**
+**Which resulted in following controllers:**
 
 First & Second Joints
 
