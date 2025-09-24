@@ -23,7 +23,7 @@
 <img width="1356" height="890" alt="image" src="https://github.com/user-attachments/assets/3242401f-cd0f-401d-bfe4-a52aa084c400" />
 
 ---
-**In the last part, I designed a PID controller for each joint so that they meet these requirement:**
+**In the Third part, I designed a PID controller for each joint so that they meet these requirement:**
 
 - settling time is about 1 second
 -  the overshoot is less than 5%.
@@ -38,6 +38,10 @@ Third Joint
 
 <img width="1260" height="502" alt="image" src="https://github.com/user-attachments/assets/938ec3ee-1a2a-427e-9aaf-4aa44dab25d8" />
 
+---
+**In the final stage, I implemented a trajectory on the robot with the designed controller:**
+
+<img width="975" height="1056" alt="image" src="https://github.com/user-attachments/assets/3d8b6645-4c3c-4302-96a0-6a9128916c67" />
 
 
 
