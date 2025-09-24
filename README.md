@@ -43,6 +43,17 @@ Third Joint
 
 <img width="975" height="1056" alt="image" src="https://github.com/user-attachments/assets/3d8b6645-4c3c-4302-96a0-6a9128916c67" />
 
+**The path followed by the end effector with the trajectory and controller**
+
+<img width="1232" height="654" alt="image" src="https://github.com/user-attachments/assets/3521bca5-ce9a-4e7d-adf1-c2734d103f8c" />
+
+<img width="1226" height="822" alt="image" src="https://github.com/user-attachments/assets/b1d78fcf-7d5f-4bfe-a6b8-c89efa1fd747" />  
+
+<img width="1246" height="824" alt="image" src="https://github.com/user-attachments/assets/ab002e16-78e6-455b-ba92-2977555280b0" />
+
+
+
+
 
 
 
