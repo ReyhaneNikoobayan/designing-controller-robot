@@ -22,7 +22,7 @@
 
 <img width="1356" height="890" alt="image" src="https://github.com/user-attachments/assets/3242401f-cd0f-401d-bfe4-a52aa084c400" />
 
-
+---
 **In the last part, I designed a PID controller for each joint so that they meet these requirement:**
 
 - settling time is about 1 second
