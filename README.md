@@ -1,6 +1,7 @@
 # designing controller for robot
 
-<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/7f73e9e4-3c6c-43c5-afc6-fa735268f207" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/7f73e9e4-3c6c-43c5-afc6-fa735268f207" />  
+
 
 
 **In this project, First I design model for motors of robot**
